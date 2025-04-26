@@ -1,4 +1,4 @@
-# ⚡️ Forecastly — Electricity Demand & Price Forecasting
+# ⚡️ Electro-Forecast — Electricity Demand & Price Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-API-lightgrey?logo=flask)
